@@ -96,7 +96,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone [YOUR_GITHUB_REPO_URL]
+   git clone 
    cd banking-web-app
    ```
 
